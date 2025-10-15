@@ -1,0 +1,9 @@
+# Arquivos de ambiente e credenciais
+.env
+
+# Banco local SQLite
+bling.db
+
+# Pastas automáticas
+__pycache__/
+venv/
